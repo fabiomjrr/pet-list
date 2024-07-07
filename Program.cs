@@ -1,4 +1,4 @@
-﻿// Final
+﻿// Pets adoption is a simple console app enhances search functionality to support multi-term searches in dog descriptions. It also introduces a new 'search state' animation to visually track search progress. 
 
 // ourAnimals array will store the following: 
 string animalSpecies = "";
